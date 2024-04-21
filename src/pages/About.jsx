@@ -66,6 +66,7 @@ function About() {
                   <li>Tailwind</li>
                   <li>Custom Hook (useFavorites)</li>
                   <li>React Hook Form en la página About</li>
+                  <li>Testing en Blog y ContactForm</li>
                 </ul>
               </div>
             </div>
